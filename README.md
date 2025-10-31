@@ -111,9 +111,9 @@ El resumen visual del proyecto se encuentra en el archivo:
 
 ## 🏁 Autores
 
-👤 **Luis Fernández** — Análisis de datos y visualizaciones  
-👤 **Nerea Gómez** — Storytelling y diseño de presentación  
-👤 **Andrés Moral** — Modelado SQL y análisis musical  
+👤 **Luis Fernández**
+👤 **Nerea Gómez**
+👤 **Andrés Moral** 
 
 ---
 
