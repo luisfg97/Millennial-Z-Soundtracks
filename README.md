@@ -59,19 +59,6 @@ La base de datos se llamó `spotify` y contiene las siguientes tablas principale
 - **genres** → clasificación de géneros musicales.  
 - **caracteristics** → características numéricas de las canciones (energy, valence, tempo…).
 
-Relaciones implementadas en `Creacion_Tablas.sql`:
-
-```sql
-ALTER TABLE songs
-ADD FOREIGN KEY (artist_id) REFERENCES artist (artist_id) ON DELETE CASCADE;
-
-ALTER TABLE songs
-ADD FOREIGN KEY (genre_id) REFERENCES genres (genre_id) ON DELETE CASCADE;
-
-ALTER TABLE songs
-ADD FOREIGN KEY (caracteristicas_id) REFERENCES caracteristics (caracteristicas_id) ON DELETE CASCADE;
-```
-
 ---
 
 ## 📊 Visualizaciones y conclusiones
