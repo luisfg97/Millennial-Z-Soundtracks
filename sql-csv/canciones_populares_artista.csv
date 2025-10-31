@@ -1,0 +1,1001 @@
+year,artist,song,popularity
+2002,Eminem,"Without Me",87
+2000,Eminem,"The Real Slim Shady",86
+2002,Eminem,"'Till I Collapse",85
+2000,"Linkin Park","In the End",83
+2000,Eminem,Stan,83
+2000,"Linkin Park","In the End",83
+1999,"Dr. Dre","The Next Episode",82
+2000,Outkast,"Ms. Jackson",82
+2005,Gorillaz,"Feel Good Inc.",82
+2005,Shakira,"Hips Don't Lie (feat. Wyclef Jean)",82
+2006,"Nelly Furtado",Promiscuous,82
+2008,"Kanye West",Heartless,82
+2009,JAY-Z,"Empire State Of Mind",82
+2011,Coldplay,Paradise,82
+2003,"50 Cent","In Da Club",81
+2004,Usher,"Yeah! (feat. Lil Jon & Ludacris)",81
+2003,"Britney Spears",Toxic,81
+2003,"Linkin Park",Numb,81
+2008,Rihanna,Umbrella,81
+2006,"Nelly Furtado","Say It Right",81
+2010,Eminem,"Love The Way You Lie",81
+2010,"Justin Bieber",Baby,81
+2011,Pitbull,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",81
+2011,"Gym Class Heroes","Stereo Hearts (feat. Adam Levine)",81
+2002,"Red Hot Chili Peppers","Can't Stop",80
+2003,Outkast,"Hey Ya!",80
+2004,"Kanye West","All Falls Down",80
+2007,Timbaland,"The Way I Are",80
+2006,"My Chemical Romance",Teenagers,80
+2008,"Flo Rida","Low (feat. T-Pain)",80
+2008,Coldplay,"Viva La Vida",80
+2008,"Kings of Leon","Sex on Fire",80
+2009,"Black Eyed Peas","I Gotta Feeling",80
+2009,"Lady Gaga","Bad Romance",80
+2008,"Kings of Leon","Sex on Fire",80
+2009,"Lady Gaga","Bad Romance",80
+2010,Kesha,"TiK ToK",80
+2010,"Taio Cruz",Dynamite,80
+1999,blink-182,"All The Small Things",79
+1999,"Dr. Dre","Forgot About Dre",79
+2002,Coldplay,Clocks,79
+2003,Evanescence,"Bring Me To Life",79
+2002,Coldplay,Clocks,79
+2003,Hoobastank,"The Reason",79
+2005,"50 Cent","Candy Shop",79
+2006,"Nelly Furtado",Maneater,79
+2005,"The Fray","How to Save a Life",79
+2007,"Britney Spears","Gimme More",79
+2006,"Red Hot Chili Peppers","Snow (Hey Oh)",79
+2009,"Miley Cyrus","Party In The U.S.A.",79
+2010,Eminem,"Not Afraid",79
+2010,Usher,"DJ Got Us Fallin' In Love (feat. Pitbull)",79
+2011,"Jennifer Lopez","On The Floor",79
+2011,"Selena Gomez & The Scene","Love You Like A Love Song",79
+2000,"Bon Jovi","It's My Life",78
+1999,"Red Hot Chili Peppers",Otherside,78
+2000,"3 Doors Down",Kryptonite,78
+2001,"Jimmy Eat World","The Middle",78
+2001,Nickelback,"How You Remind Me",78
+2002,"Avril Lavigne",Complicated,78
+2005,"Kanye West","Gold Digger",78
+2005,"Sean Paul",Temperature,78
+2006,"Justin Timberlake","SexyBack (feat. Timbaland)",78
+2005,"Plain White T's","Hey There Delilah",78
+2007,"Foo Fighters","The Pretender",78
+2007,"Sean Kingston","Beautiful Girls",78
+2008,"The Offspring","You're Gonna Go Far, Kid",78
+2008,Estelle,"American Boy",78
+2009,"Owl City",Fireflies,78
+2010,"Bruno Mars",Grenade,78
+2010,Miguel,"Sure Thing",78
+2000,"Britney Spears","Oops!...I Did It Again",77
+2001,Modjo,"Lady - Hear Me Tonight",77
+2001,Train,"Drops of Jupiter (Tell Me)",77
+2002,Nelly,Dilemma,77
+2004,Eminem,"Lose Yourself - From "8 Mile"" Soundtrack"",77
+2002,"Maroon 5","This Love",77
+2004,"Franz Ferdinand","Take Me Out",77
+2004,"Green Day","American Idiot",77
+2005,Rihanna,"Pon de Replay",77
+2005,"The Game","Hate It Or Love It",77
+2004,Eminem,Mockingbird,77
+2007,"Linkin Park","What I've Done",77
+2007,"Alicia Keys","No One",77
+2008,Rihanna,"Don't Stop The Music",77
+2007,MGMT,Kids,77
+2008,"Lady Gaga","Poker Face",77
+2008,"Empire of the Sun","Walking On A Dream",77
+2010,"Bruno Mars","Just the Way You Are",77
+2010,Stromae,"Alors on danse - Radio Edit",77
+2010,"Maroon 5","Moves Like Jagger - Studio Recording From "The Voice"" Performance"",77
+2011,"The Wanted","Glad You Came",77
+2000,Shaggy,"It Wasn't Me",76
+2001,"Mary J. Blige","Family Affair",76
+2001,"Daft Punk","One More Time",76
+2003,BeyoncÃ©,"Crazy In Love (feat. Jay-Z)",76
+2003,"50 Cent",P.I.M.P.,76
+2002,"Justin Timberlake","Rock Your Body",76
+2004,"Kanye West","Through The Wire",76
+2004,Usher,"My Boo",76
+2005,"50 Cent","Just A Lil Bit",76
+2004,JAY-Z,"Numb / Encore",76
+2005,"Foo Fighters","Best of You",76
+2006,"Red Hot Chili Peppers","Dani California",76
+2006,"My Chemical Romance","Welcome to the Black Parade",76
+2006,Fergie,"Big Girls Don't Cry (Personal)",76
+2007,"Fall Out Boy","Thnks fr th Mmrs",76
+2007,"All Time Low","Dear Maria, Count Me In",76
+2006,"Amy Winehouse","Back To Black",76
+2005,"Carrie Underwood","Before He Cheats",76
+2008,Rihanna,Disturbia,76
+2008,"Britney Spears",Womanizer,76
+2008,P!nk,"So What",76
+2008,"Lady Gaga","Just Dance",76
+2008,"Soulja Boy","Kiss Me Thru The Phone",76
+2010,"David Guetta","Memories (feat. Kid Cudi)",76
+2010,"Flo Rida","Club Can't Handle Me (feat. David Guetta)",76
+2010,"Bruno Mars","Talking to the Moon",76
+2010,"Black Eyed Peas","Just Canâ€™t Get Enough",76
+2010,"Waka Flocka Flame","No Hands (feat. Roscoe Dash & Wale)",76
+2011,M83,"Midnight City",76
+2010,"Kanye West","All Of The Lights",76
+2011,"Selena Gomez & The Scene","Who Says",76
+1999,"Destiny's Child","Say My Name",75
+2001,"Alien Ant Farm","Smooth Criminal",75
+2000,Nelly,"Ride Wit Me",75
+2002,"Vanessa Carlton","A Thousand Miles",75
+2002,Nelly,"Hot In Herre",75
+2002,"Avril Lavigne","Sk8er Boi",75
+2002,Audioslave,"Like a Stone",75
+2005,"James Blunt","You're Beautiful",75
+2005,"Black Eyed Peas","Pump It",75
+2006,Muse,"Supermassive Black Hole",75
+2006,Ne-Yo,"So Sick",75
+2007,"Leona Lewis","Bleeding Love",75
+2007,"Avril Lavigne",Girlfriend,75
+2008,"Kardinal Offishall",Dangerous,75
+2008,T.I.,"Live Your Life",75
+2010,"David Guetta","Sexy Bitch (feat. Akon)",75
+2009,Skillet,Monster,75
+2009,JAY-Z,"Run This Town",75
+2008,T.I.,"Live Your Life",75
+2009,Muse,Uprising,75
+2009,Iyaz,Replay,75
+2010,"Mike Posner","Cooler Than Me - Single Mix",75
+2011,"Wiz Khalifa","Black and Yellow",75
+2011,Rihanna,"We Found Love",75
+2001,Shakira,"Whenever, Wherever",74
+2001,Gorillaz,"Clint Eastwood",74
+2002,"Sean Paul","Get Busy",74
+2003,"The Strokes",Reptilia,74
+2002,"3 Doors Down","Here Without You",74
+2005,"Daniel Powter","Bad Day",74
+2005,Madonna,"Hung Up",74
+2005,"The Game","How We Do",74
+2005,"Thirty Seconds To Mars","The Kill",74
+2006,"Gnarls Barkley",Crazy,74
+2005,Eminem,"Shake That",74
+2005,"Fall Out Boy","Dance, Dance",74
+2007,"Soulja Boy","Crank That (Soulja Boy)",74
+2007,Ne-Yo,"Because Of You",74
+2006,"The Red Jumpsuit Apparatus","Face Down",74
+2008,Rihanna,"Take A Bow",74
+2007,Timbaland,Apologize,74
+2007,"Soulja Boy","Crank That (Soulja Boy)",74
+2008,T.I.,"Whatever You Like",74
+2008,"Chris Brown",Forever,74
+2008,BeyoncÃ©,Halo,74
+2009,"Flo Rida","Right Round",74
+2008,"Taylor Swift","Love Story",74
+2008,"Britney Spears",Circus,74
+2008,T.I.,"Whatever You Like",74
+2009,OneRepublic,Secrets,74
+2010,"Taio Cruz","Break Your Heart",74
+2009,Rihanna,"Rude Boy",74
+2010,"Sean Kingston","Eenie Meenie",74
+2010,B.o.B,"Airplanes (feat. Hayley Williams of Paramore)",74
+2010,B.o.B,"Nothin' on You (feat. Bruno Mars)",74
+2012,"Katy Perry","Last Friday Night (T.G.I.F.)",74
+2011,"Avril Lavigne","What the Hell",74
+2000,"Alice Deejay","Better Off Alone",73
+2001,"Kylie Minogue","Can't Get You out of My Head",73
+2000,"Limp Bizkit","Rollin' (Air Raid Vehicle)",73
+2001,Eve,"Let Me Blow Ya Mind",73
+1999,Dido,"Thank You",73
+2001,"Fat Joe","What's Luv? (feat. Ja-Rule & Ashanti)",73
+2001,"Ja Rule","Always On Time",73
+2002,"Red Hot Chili Peppers","By the Way",73
+2003,"Baby Bash","Suga Suga",73
+2002,"Justin Timberlake","Cry Me a River",73
+2004,D12,"My Band",73
+2003,"Baby Bash","Suga Suga",73
+2004,"Kanye West","Jesus Walks",73
+2005,"Fort Minor","Remember the Name (feat. Styles of Beyond)",73
+2005,Gorillaz,DARE,73
+2006,Rihanna,SOS,73
+2006,Cassie,"Me & U",73
+2005,"Kanye West","Touch The Sky",73
+2006,"The Kooks",Naive,73
+2007,"Alex Gaudino","Destination Calabria - Radio Edit",73
+2007,"Finger Eleven",Paralyzer,73
+2007,Seether,"Fake It",73
+2007,"Linkin Park","Bleed It Out",73
+2008,"Katy Perry","I Kissed A Girl",73
+2008,"Katy Perry","Hot N Cold",73
+2007,"Finger Eleven",Paralyzer,73
+2009,Drake,Forever,73
+2009,"Green Day","21 Guns",73
+2009,"The Fray","You Found Me",73
+2010,Rihanna,"Only Girl (In The World)",73
+2010,"Far East Movement","Like A G6",73
+2010,Usher,"OMG (feat. will.i.am)",73
+2010,Nelly,"Just A Dream",73
+2010,"Lady A","Need You Now",73
+2011,LMFAO,"Party Rock Anthem",73
+2010,Rihanna,S&M,73
+2000,"Limp Bizkit","Take A Look Around",72
+2001,"The Calling","Wherever You Will Go",72
+2002,Coldplay,"In My Place",72
+2003,"Linkin Park",Faint,72
+2003,"Three Days Grace","I Hate Everything About You",72
+2002,Trapt,Headstrong,72
+2003,"50 Cent","21 Questions",72
+2004,"Eric Prydz","Call on Me - Radio Mix",72
+2003,Evanescence,"My Immortal",72
+2004,Twista,"Slow Jamz",72
+2004,Mario,"Let Me Love You",72
+2004,"Green Day","Boulevard of Broken Dreams",72
+2005,"The Pussycat Dolls","Don't Cha",72
+2005,"50 Cent","Disco Inferno",72
+2005,Shakira,"La Tortura (feat. Alejandro Sanz)",72
+2006,"Justin Timberlake","My Love (feat. T.I.)",72
+2006,"Arctic Monkeys","When The Sun Goes Down",72
+2005,"Keyshia Cole",Love,72
+2006,"Justin Timberlake","My Love (feat. T.I.)",72
+2007,Paramore,"Misery Business",72
+2008,"The Pussycat Dolls","When I Grow Up",72
+2009,"Black Eyed Peas","Meet Me Halfway",72
+2009,"Kid Cudi","Day 'N' Nite (Nightmare)",72
+2012,"Katy Perry","California Gurls",72
+2010,"Travie McCoy","Billionaire (feat. Bruno Mars)",72
+2010,"Katy Perry",Firework,72
+2012,"David Guetta","Where Them Girls At (feat. Nicki Minaj & Flo Rida)",72
+2010,Jeremih,"Down On Me",72
+2011,"Lady Gaga","Born This Way",72
+1999,DMX,"Party Up",71
+1999,Wheatus,"Teenage Dirtbag",71
+2001,"Blu Cantrell","Hit 'Em Up Style (Oops!)",71
+1999,"Crazy Town",Butterfly,71
+2002,Eminem,"Cleanin' Out My Closet",71
+2002,JAY-Z,"03' Bonnie & Clyde",71
+2002,Eminem,"Sing For The Moment",71
+2005,"Chris Brown","Run It! (feat. Juelz Santana)",71
+2006,"Arctic Monkeys","I Bet You Look Good On The Dancefloor",71
+2004,"Kelly Clarkson","Because of You",71
+2005,"KT Tunstall","Suddenly I See",71
+2004,"Kelly Clarkson","Since U Been Gone",71
+2006,"Amy Winehouse",Rehab,71
+2005,Chamillionaire,Ridin',71
+2006,"Gwen Stefani","The Sweet Escape",71
+2008,Ne-Yo,"Miss Independent",71
+2009,Madonna,"4 Minutes (feat. Justin Timberlake & Timbaland)",71
+2008,Usher,"Love in This Club (feat. Young Jeezy)",71
+2009,"Sean Kingston","Fire Burning",71
+2009,"La Roux",Bulletproof,71
+2009,"Justin Bieber","One Time",71
+2009,"Young Money",BedRock,71
+2009,"Alicia Keys","Empire State of Mind (Part II) Broken Down",71
+2011,Pitbull,"Hey Baby (Drop It to the Floor) (feat. T-Pain)",71
+2010,"David Guetta","Who's That Chick? (feat. Rihanna)",71
+2011,"Dr. Dre","I Need A Doctor",71
+2011,"Chris Brown","Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",71
+2010,Kesha,"We R Who We R",71
+2000,"Craig David","7 Days",70
+1999,"Destiny's Child","Jumpin', Jumpin'",70
+2000,"Backstreet Boys","Shape of My Heart",70
+2001,"Destiny's Child",Survivor,70
+2002,"Missy Elliott","Work It",70
+2002,Ashanti,Foolish,70
+2001,"Puddle Of Mudd","She Hates Me",70
+2002,"Jennifer Lopez","Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",70
+2007,DMX,"X Gon' Give It To Ya",70
+2003,"Limp Bizkit","Behind Blue Eyes",70
+2002,"Missy Elliott","Work It",70
+2002,"Avril Lavigne","I'm with You",70
+2004,Juanes,"La Camisa Negra",70
+2007,BeyoncÃ©,Irreplaceable,70
+2006,Rihanna,Unfaithful,70
+2005,Nickelback,"Far Away",70
+2005,"Panic! At The Disco","I Write Sins Not Tragedies",70
+2006,"Justin Timberlake","What Goes Around.../...Comes Around (Interlude)",70
+2007,Timbaland,"Give It To Me",70
+2007,Lloyd,You,70
+2007,"Chris Brown","With You",70
+2007,Madcon,"Beggin (original version)",70
+2008,"James Morrison","Broken Strings",70
+2008,"Lady Gaga",Paparazzi,70
+2009,Eminem,"Crack A Bottle",70
+2008,3OH!3,DONTTRUSTME,70
+2010,"Jason Derulo","Whatcha Say",70
+2008,"James Morrison","Broken Strings",70
+2010,"Jason Derulo","Whatcha Say",70
+2011,"Cobra Starship","You Make Me Feel... (feat. Sabi)",70
+2011,"DJ Khaled","I'm On One",70
+1999,Sisqo,"Thong Song",69
+2001,Darude,Sandstorm,69
+1999,JAY-Z,"Big Pimpin'",69
+1999,Creed,Higher,69
+2001,"Britney Spears","I'm a Slave 4 U",69
+2001,P.O.D.,"Youth of the Nation",69
+2000,Enya,"Only Time",69
+2001,Gabrielle,"Out Of Reach",69
+2004,Diddy,"I Need a Girl (Pt. 2) [feat. Loon, Ginuwine & Mario Winans]",69
+2001,Creed,"My Sacrifice",69
+2003,Jamelia,Superstar,69
+2003,Chingy,"Right Thurr",69
+2005,"Mariah Carey","We Belong Together",69
+2004,"Gwen Stefani","Hollaback Girl",69
+2005,Stereophonics,Dakota,69
+2005,Coldplay,"Speed of Sound",69
+2006,"Bob Sinclar","Rock This Party - Everybody Dance Now",69
+2005,"Mary J. Blige","Be Without You - Kendu Mix",69
+2006,"Rascal Flatts","What Hurts The Most",69
+2005,"Chris Brown","Yo (Excuse Me Miss)",69
+2008,Rihanna,"Shut Up And Drive",69
+2005,Nickelback,Rockstar,69
+2006,MIKA,"Grace Kelly",69
+2008,"Lil Wayne",Lollipop,69
+2008,Akon,"Right Now (Na Na Na)",69
+2008,Jeezy,"Put On",69
+2008,"Lil Wayne","A Milli",69
+2008,"Saving Abel",Addicted,69
+2008,Duffy,Mercy,69
+2008,"Lady Gaga",LoveGame,69
+2008,"Britney Spears","If U Seek Amy",69
+2010,"David Guetta","When Love Takes Over (feat. Kelly Rowland)",69
+2009,Timbaland,"Carry Out (Featuring Justin Timberlake)",69
+2010,"Black Eyed Peas","The Time (Dirty Bit)",69
+2009,"Lady Gaga",Telephone,69
+2010,Kesha,"Your Love Is My Drug",69
+2010,"Katy Perry","Teenage Dream",69
+2010,Kesha,Blow,69
+2011,"Chris Brown","Yeah 3x",69
+2010,"Diddy - Dirty Money","Coming Home",69
+2000,"Robbie Williams","Rock DJ",68
+1999,"Backstreet Boys","Show Me the Meaning of Being Lonely",68
+2000,Westlife,"My Love",68
+2000,"The Corrs",Breathless,68
+2000,Nelly,"Country Grammar (Hot Shit)",68
+2001,"Christina Aguilera","Lady Marmalade - From "Moulin Rouge"" Soundtrack"",68
+2001,"Missy Elliott","Get Ur Freak On",68
+2001,D12,"Purple Pills",68
+2001,Afroman,"Because I Got High",68
+2000,"Lenny Kravitz",Again,68
+2001,Travis,Sing,68
+2002,"Busta Rhymes","I Know What You Want (feat. Flipmode Squad)",68
+2002,"Christina Aguilera","Dirrty (feat. Redman)",68
+2001,P!nk,"Get the Party Started",68
+2003,"Black Eyed Peas","Where Is The Love?",68
+2002,"Busta Rhymes","I Know What You Want (feat. Flipmode Squad)",68
+2003,Nickelback,Someday,68
+2002,"Good Charlotte","Lifestyles of the Rich & Famous",68
+2003,"The Rasmus","In the Shadows",68
+2003,Kelis,Milkshake,68
+2003,"Linkin Park","Breaking the Habit",68
+2002,"Sean Paul","I'm Still in Love with You (feat. Sasha)",68
+2004,"Avril Lavigne","My Happy Ending",68
+2004,"Gwen Stefani","Rich Girl",68
+2004,2Pac,"Ghetto Gospel",68
+2005,"The Pussycat Dolls",Buttons,68
+2005,"The Notorious B.I.G.","Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",68
+2005,Eminem,"When I'm Gone",68
+2006,"Lily Allen",Smile,68
+2006,"The Fratellis","Chelsea Dagger",68
+2006,Ciara,"Like a Boy",68
+2007,"Chris Brown","Kiss Kiss (feat. T-Pain)",68
+2007,"Fall Out Boy","This Ain't A Scene, It's An Arms Race",68
+2007,"James Blunt",1973,68
+2007,"Avril Lavigne","When You're Gone",68
+2007,"Chris Brown","Kiss Kiss (feat. T-Pain)",68
+2011,"Dizzee Rascal","Dance Wiv Me - Radio Edit",68
+2008,"Jonas Brothers","Burnin' Up",68
+2009,"Black Eyed Peas","Boom Boom Pow",68
+2009,Shakira,"She Wolf",68
+2009,"Linkin Park","New Divide",68
+2008,T.I.,"Dead And Gone",68
+2009,"Kelly Clarkson","My Life Would Suck Without You",68
+2009,"Mumford & Sons","Little Lion Man",68
+2010,Kesha,"Take It Off",68
+2011,"Chris Brown","Deuces (feat. Tyga & Kevin McCall)",68
+2009,Timbaland,"If We Ever Meet Again (Featuring Katy Perry)",68
+2010,Rihanna,"Man Down",68
+2010,Ludacris,"My Chick Bad",68
+2010,"Lil Wayne","Right Above It",68
+2011,"Snoop Dogg","Sweat - Remix",68
+2001,"Jennifer Lopez","Love Don't Cost a Thing",67
+2001,"Jagged Edge","Where the Party At (feat. Nelly)",67
+2002,Camâ€™ron,"Oh Boy",67
+2003,"Pharrell Williams","Frontin' (feat. Jay-Z) - Club Mix",67
+2002,"Christina Aguilera",Fighter,67
+2005,"Snoop Dogg",Beautiful,67
+2002,"3 Doors Down","When I'm Gone",67
+2002,"Junior Senior","Move Your Feet",67
+2003,Fabolous,"Into You (feat. Tamia)",67
+2004,"Terror Squad","Lean Back",67
+2004,Ciara,"Goodies (feat. Petey Pablo)",67
+2004,"Nina Sky","Move Ya Body",67
+2004,Eminem,"Just Lose It",67
+2004,"Kevin Lyttle","Turn Me On",67
+2005,"Crazy Frog","Axel F",67
+2005,"Black Eyed Peas","My Humps",67
+2005,"Missy Elliott","Lose Control (feat. Ciara & Fat Man Scoop)",67
+2005,Nickelback,Photograph,67
+2005,"The Pussycat Dolls",Stickwitu,67
+2004,Eminem,"Like Toy Soldiers",67
+2005,"Toby Keith","As Good As I Once Was",67
+2006,"Lil Jon","Snap Yo Fingers",67
+2006,Ne-Yo,"Sexy Love",67
+2005,"The Pussycat Dolls",Stickwitu,67
+2005,"James Blunt","Goodbye My Lover",67
+2006,Razorlight,America,67
+2007,"50 Cent","Ayo Technology",67
+2007,"Arctic Monkeys",Brianstorm,67
+2007,"Kaiser Chiefs",Ruby,67
+2007,"Metro Station","Shake It",67
+2008,"David Archuleta",Crush,67
+2007,"Leona Lewis","Better in Time",67
+2009,Jeremih,"Birthday Sex",67
+2008,BeyoncÃ©,"Single Ladies (Put a Ring on It)",67
+2009,"The Fray","Never Say Never",67
+2008,Shinedown,"Second Chance",67
+2009,Rihanna,"Te Amo",67
+2009,"Lady Gaga",Alejandro,67
+2010,"Maroon 5",Misery,67
+2010,Usher,"More - RedOne Jimmy Joker Remix",67
+2011,LMFAO,"Sexy And I Know It",67
+1999,"Faith Hill",Breathe,66
+2000,"Toni Braxton","He Wasn't Man Enough",66
+1999,Santana,"Maria Maria (feat. The Product G&B)",66
+2001,"Atomic Kitten","Whole Again",66
+2001,"Jennifer Lopez","I'm Real (feat. Ja Rule) - Murder Remix",66
+2002,"Las Ketchup","The Ketchup Song (AserejÃ©) - Spanglish Version",66
+2003,"Chad Kroeger","Hero (feat. Josey Scott)",66
+2003,"Benny Benassi","Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz",66
+2003,Outkast,"The Way You Move (feat. Sleepy Brown)",66
+2016,"Mario Winans","I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",66
+2004,Twista,"Overnight Celebrity",66
+2003,Outkast,"The Way You Move (feat. Sleepy Brown)",66
+2004,"Lil Jon & The East Side Boyz","Lovers And Friends",66
+2005,"Bow Wow","Like You (feat. Ciara)",66
+2006,"Yung Joc","It's Goin' Down (feat. Nitti)",66
+2006,"Justin Timberlake","Summer Love",66
+2007,Sugababes,"About You Now",66
+2006,"Christina Aguilera",Candyman,66
+2008,BeyoncÃ©,"If I Were a Boy",66
+2007,Plies,"Hypnotized (feat. Akon)",66
+2008,"Kanye West","Love Lockdown",66
+2009,"Mariah Carey",Obsessed,66
+2008,"Kevin Rudolf","Let It Rock",66
+2008,"Kanye West","Love Lockdown",66
+2008,Nickelback,"If Today Was Your Last Day",66
+2010,"Edward Maya","Stereo Love - Radio Edit",66
+2011,"Cali Swag District","Teach Me How to Dougie",66
+2010,Rihanna,"What's My Name?",66
+2010,"Jason Derulo","Ridin' Solo",66
+2011,"Britney Spears","I Wanna Go",66
+2010,"Edward Maya","Stereo Love - Radio Edit",66
+2010,Rihanna,"What's My Name?",66
+2000,*NSYNC,"Bye Bye Bye",65
+1999,"Tom Jones",Sexbomb,65
+2000,"Baha Men","Who Let The Dogs Out",65
+2001,"LeAnn Rimes","Can't Fight The Moonlight",65
+2001,"Destiny's Child","Independent Women, Pt. 1",65
+2000,Joe,"I Wanna Know",65
+2000,"Britney Spears",Lucky,65
+2001,Lasgo,Something,65
+2001,Jamiroquai,"Little L",65
+2001,"Janet Jackson","All For You",65
+2001,"Destiny's Child","Independent Women, Pt. 1",65
+2001,Ginuwine,Differences,65
+2002,"Atomic Kitten","The Tide Is High - Radio Mix",65
+2003,Ashanti,"Rock Wit U (Awww Baby)",65
+2004,Anastacia,"Left Outside Alone",65
+2004,"The Shapeshifters","Lola's Theme - Radio Edit",65
+2001,"Gary Jules","Mad World (Feat. Michael Andrews)",65
+2005,"Jennifer Lopez","Get Right",65
+2005,"Bobby V.","Slow Down - 12" Version"",65
+2005,"The All-American Rejects","Dirty Little Secret",65
+2006,Cherish,"Do It To It",65
+2005,Nickelback,"Savin' Me",65
+2006,Evanescence,"Call Me When You're Sober",65
+2005,"The All-American Rejects","Dirty Little Secret",65
+2007,September,"Cry for You",65
+2007,Klaxons,"Golden Skans",65
+2007,September,"Cry for You",65
+2008,"Eric Prydz","Pjanoo - Radio Edit",65
+2008,Ne-Yo,Closer,65
+2008,Basshunter,"All I Ever Wanted - Radio Edit",65
+2008,"Sean Kingston","Take You There",65
+2009,Agnes,"Release Me",65
+2009,OneRepublic,"All The Right Moves",65
+2009,Cheryl,"Fight For This Love",65
+2009,"A.R. Rahman","Jai Ho! (You Are My Destiny)",65
+2008,Akon,Beautiful,65
+2009,"Cobra Starship","Good Girls Go Bad (feat. Leighton Meester)",65
+2008,"Jamie Foxx","Blame It",65
+2010,"Jason Derulo","In My Head",65
+2009,JAY-Z,"Young Forever",65
+2010,"Taylor Swift","Back To December",65
+2010,B.o.B,"Magic (feat. Rivers Cuomo)",65
+2012,"Katy Perry",E.T.,65
+2011,Nickelback,"When We Stand Together",65
+2011,"Britney Spears","Till the World Ends",65
+2011,"Kelly Rowland",Motivation,65
+2011,"Swedish House Mafia","Save The World",65
+1999,Anastacia,"I'm Outta Love - Radio Edit",64
+1999,"Gigi D'Agostino","The Riddle",64
+2000,"Mary Mary","Shackles (Praise You)",64
+1999,"CÃ©line Dion","That's the Way It Is",64
+1999,Creed,"With Arms Wide Open",64
+1999,"Christina Aguilera","Come on over Baby (All I Want Is You) - Radio Version",64
+2001,"Michael Jackson","You Rock My World",64
+2001,"Destiny's Child",Bootylicious,64
+2001,"Ja Rule","Livin' It Up",64
+2001,Staind,"It's Been Awhile",64
+2001,Shakira,"Underneath Your Clothes",64
+2002,Tweet,"Oops (Oh My) [feat. Missy Elliott]",64
+2002,"Big Tymers","Still Fly",64
+2001,"Robbie Williams","Somethin' Stupid",64
+2001,"Puddle Of Mudd",Blurry,64
+2003,Monica,"So Gone",64
+2004,U2,Vertigo,64
+2004,Eamon,"Fuck It (I Don't Want You Back)",64
+2003,JUVENILE,"Slow Motion",64
+2005,Sugababes,"Push The Button",64
+2006,"Take That",Patience,64
+2006,T.I.,"What You Know",64
+2005,"Mary J. Blige",One,64
+2005,"KT Tunstall","Black Horse And The Cherry Tree",64
+2006,"James Morrison","You Give Me Something",64
+2007,BeyoncÃ©,"Beautiful Liar",64
+2006,"Take That",Patience,64
+2006,Fergie,Glamorous,64
+2007,"J. Holiday",Bed,64
+2007,"Britney Spears","Piece of Me",64
+2008,"The Pussycat Dolls","I Hate This Part",64
+2007,"Mary J. Blige","Just Fine",64
+2007,"Lupe Fiasco","Superstar (feat. Matthew Santos)",64
+2009,Rihanna,"Russian Roulette",64
+2008,"The Pussycat Dolls","I Hate This Part",64
+2009,Kasabian,Fire,64
+2009,"Boys Like Girls","Love Drunk",64
+2008,Ne-Yo,Mad,64
+2010,"Neon Trees",Animal,64
+2010,"The Band Perry","If I Die Young",64
+1999,"Donell Jones","U Know What's Up (feat. Lisa "Left Eye"" Lopes)"",63
+2001,Blue,"All Rise",63
+2001,112,"Peaches & Cream",63
+2001,"S Club 7","Don't Stop Movin'",63
+2001,JAY-Z,"Izzo (H.O.V.A.)",63
+2005,Diddy,"I Need a Girl (Pt. 1) [feat. Usher & Loon]",63
+2002,"DJ Sammy",Heaven,63
+2003,BeyoncÃ©,"Baby Boy (feat. Sean Paul)",63
+2002,"The Roots","The Seed (2.0)",63
+2002,"Matchbox Twenty",Unwell,63
+2003,"Wayne Wonder","No Letting Go",63
+2003,BeyoncÃ©,"Naughty Girl",63
+2003,Kelis,"Trick Me",63
+2004,T.I.,"Bring Em Out",63
+2003,"Britney Spears",Everytime,63
+2005,"The Chemical Brothers",Galvanize,63
+2005,D4L,"Laffy Taffy",63
+2005,"Backstreet Boys",Incomplete,63
+2005,"Pretty Ricky","Grind With Me",63
+2004,"Destiny's Child","Soldier (feat. T.I. & Lil' Wayne)",63
+2005,"Kaiser Chiefs","I Predict A Riot",63
+2005,"Chris Brown","Gimme That",63
+2006,E-40,"U and Dat (feat. T. Pain & Kandi Girl)",63
+2005,D4L,"Laffy Taffy",63
+2006,"Amy Winehouse","You Know I'm No Good",63
+2006,"Scissor Sisters","I Don't Feel Like Dancin'",63
+2006,"Christina Aguilera","Ain't No Other Man",63
+2006,Fergie,Fergalicious,63
+2008,Basshunter,"Now You're Gone - Video Edit",63
+2009,"Alexandra Burke",Hallelujah,63
+2008,Coldplay,"Violet Hill",63
+2009,Pitbull,"Hotel Room Service",63
+2009,Cascada,"Evacuate The Dancefloor",63
+2009,Eminem,"We Made You",63
+2009,"Selena Gomez & The Scene",Naturally,63
+2010,"DJ Fresh","Gold Dust - Radio Edit",63
+2010,"Swedish House Mafia","One (Your Name) - Radio Edit",63
+2010,"Enrique Iglesias","I Like It",63
+2010,Ludacris,"How Low",63
+2010,Example,Kickstarts,63
+2010,"Enrique Iglesias","Tonight (I'm Fuckin' You)",63
+2011,"Jason Derulo","Don't Wanna Go Home",63
+1999,Sting,"Desert Rose",62
+2000,Sonique,"It Feels So Good",62
+2000,"All Saints","Pure Shores",62
+2001,"Geri Halliwell","It's Raining Men",62
+2001,"Kylie Minogue","In Your Eyes",62
+2002,"Sophie Ellis-Bextor","Murder On The Dancefloor",62
+2002,"Justin Timberlake","Like I Love You",62
+2003,B2K,"Bump, Bump, Bump (feat. P. Diddy)",62
+2003,BeyoncÃ©,"Me, Myself and I",62
+2005,"Black Eyed Peas","Don't Phunk With My Heart",62
+2005,"Ray J","One Wish",62
+2005,"Bow Wow","Let Me Hold You (feat. Omarion)",62
+2004,"Ryan Cabrera",True,62
+2006,Chingy,"Pullin' Me Back",62
+2006,Ludacris,"Money Maker",62
+2005,"Bubba Sparxxx","Ms. New Booty",62
+2007,Lloyd,"Get It Shawty",62
+2007,Fabolous,"Make Me Better",62
+2007,"Maroon 5","Makes Me Wonder",62
+2007,"Boys Like Girls","The Great Escape",62
+2008,"Natasha Bedingfield","Pocketful of Sunshine",62
+2007,The-Dream,"I Luv Your Girl",62
+2007,"Leona Lewis",Run,62
+2007,"Trey Songz","Can't Help but Wait",62
+2008,Nickelback,"Gotta Be Somebody",62
+2009,The-Dream,"Rockin' That Shit",62
+2009,"Asher Roth","I Love College",62
+2010,"David Guetta","Gettin' Over You (feat. Fergie & LMFAO)",62
+2010,3OH!3,"My First Kiss (feat. Ke$ha)",62
+2010,"Plan B","She Said",62
+2012,Labrinth,"Earthquake (feat. Tinie Tempah)",62
+2011,"Nicole Scherzinger","Don't Hold Your Breath",62
+1999,"Melanie C","Never Be The Same Again",61
+2001,"LeAnn Rimes","I Need You",61
+1999,"Christina Aguilera","I Turn to You",61
+2001,"Mary J. Blige","No More Drama",61
+2001,"The Supermen Lovers","Starlight - Radio Edit",61
+2000,Lifehouse,"Hanging By A Moment",61
+2001,"Britney Spears","Overprotected - Radio Edit",61
+2002,Ashanti,Happy,61
+2003,"Panjabi MC","Mundian to Bach Ke",61
+2002,"Christina Aguilera","Can't Hold Us Down (feat. Lil' Kim)",61
+2003,Lumidee,"Never Leave You (Uh Oooh, Uh Oooh)",61
+2002,Nelly,"Air Force Ones",61
+2002,"Sean Paul","Like Glue",61
+2003,Chingy,"Holidae In",61
+2003,Fabolous,"Can't Let You Go (feat. Mike Shorey & Lil' Mo)",61
+2002,"Ja Rule",Mesmerize,61
+2003,Switchfoot,"Meant to Live",61
+2004,"Lloyd Banks","On Fire",61
+2004,"Destiny's Child","Lose My Breath",61
+2004,"Avril Lavigne","Nobody's Home",61
+2003,"Ying Yang Twins","Salt Shaker",61
+2003,Chingy,"One Call Away",61
+2003,G-Unit,"Wanna Get To Know You",61
+2004,"Special D.","Come With Me - Radio Edit",61
+2003,"Alicia Keys","You Don't Know My Name",61
+2004,Ciara,"Oh (feat. Ludacris)",61
+2005,"Kanye West","Diamonds From Sierra Leone - Remix",61
+2005,"Franz Ferdinand","Do You Want To",61
+2005,"Black Eyed Peas","Don't Lie",61
+2004,Usher,"Caught Up",61
+2004,Nelly,"Over And Over",61
+2006,"Busta Rhymes","Touch It",61
+2005,Madonna,Sorry,61
+2006,"Sandi Thom","I Wish I Was a Punk Rocker (with Flowers in My Hair)",61
+2007,"Shop Boyz","Party Like A Rock Star",61
+2007,Plies,"Shawty (feat. T Pain)",61
+2007,"Bone Thugs-N-Harmony","I Tried",61
+2007,"Britney Spears","Break the Ice",61
+2008,"Colby O'Donis","What You Got",61
+2008,Plies,"Bust It Baby, Pt. 2 (feat. Ne-Yo)",61
+2009,"Black Eyed Peas","Imma Be",61
+2010,Kesha,"Blah Blah Blah (feat. 3OH!3)",61
+2010,"The Saturdays",Higher,61
+2010,"Taio Cruz",Higher,61
+2011,"Olly Murs","Heart Skips a Beat (feat. Rizzle Kicks)",61
+2010,"Far East Movement",Rocketeer,61
+2000,"Ricky Martin","She Bangs - English Version",60
+1999,Sisqo,Incomplete,60
+2000,"Craig David","Fill Me In",60
+2000,*NSYNC,"It's Gonna Be Me",60
+2001,Gabrielle,Rise,60
+2001,"Christina Milian","AM To PM",60
+2000,"Craig David","Fill Me In",60
+2001,"S Club 7","Have You Ever",60
+2001,"Faith Hill","There You'll Be",60
+2001,Gabrielle,Rise,60
+2001,"Christina Milian","When You Look At Me - Radio Edit",60
+2003,"Marilyn Manson","Tainted Love",60
+2002,Blue,"One Love",60
+2002,"Ronan Keating","If Tomorrow Never Comes",60
+2002,"Elvis Presley","A Little Less Conversation - JXL Radio Edit Remix",60
+2001,Ludacris,"Rollout (My Business)",60
+2001,"Michelle Branch","All You Wanted",60
+2001,P!nk,"Don't Let Me Get Me - Radio Edit",60
+2003,"Girls Aloud",Jump,60
+2002,Tyrese,"How You Gonna Act Like That",60
+2003,"No Doubt","It's My Life",60
+2002,"Jennifer Lopez","All I Have (feat. LL Cool J)",60
+2004,"Gwen Stefani","What You Waiting For?",60
+2003,"No Doubt","It's My Life",60
+2005,"50 Cent","Outta Control - Remix",60
+2005,"Katie Melua","Nine Million Bicycles",60
+2004,"Papa Roach",Scars,60
+2005,Nelly,Grillz,60
+2006,"Dem Franchize Boyz","Lean Wit It, Rock Wit It",60
+2007,"Keyshia Cole","Last Night",60
+2008,"The Game","My Life",60
+2008,"Jennifer Hudson",Spotlight,60
+2011,"Dizzee Rascal",Holiday,60
+2010,Usher,"Hey Daddy (Daddy's Home)",60
+2011,"Chase & Status","Blind Faith",60
+1999,"Montell Jordan","Get It On Tonite",59
+2000,MÃ½a,"Case Of The Ex (Whatcha Gonna Do)",59
+2000,JAY-Z,"I Just Wanna Love U (Give It 2 Me)",59
+1999,"Mariah Carey","Thank God I Found You (feat. Joe & 98Â°)",59
+2000,"Ronan Keating","Life Is A Rollercoaster",59
+2001,"Trick Daddy","I'm a Thug",59
+2002,Sugababes,"Round Round",59
+2001,"CÃ©line Dion","A New Day Has Come - Radio Remix",59
+2002,"Disturbing Tha Peace","Move Bitch",59
+2015,Khia,"My Neck, My Back (Lick It)",59
+2002,"Sean Paul","Gimme the Light",59
+2001,Usher,"U Don't Have to Call",59
+2004,Mis-Teeq,"Scandalous - U.S. Radio Edit",59
+2002,"Craig David","Rise & Fall (feat. Sting)",59
+2003,"Britney Spears","Me Against the Music (feat. Madonna) - LP Version / Video Mix",59
+2003,Ultrabeat,"Pretty Green Eyes - Radio Edit",59
+2003,Ginuwine,"In Those Jeans",59
+2004,Houston,"I Like That",59
+2001,J-Kwon,"Tipsy - Club Mix",59
+2004,Lloyd,Southside,59
+2004,LMC,"Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",59
+2004,"Girls Aloud","Love Machine",59
+2005,"Sean Paul","We Be Burnin'",59
+2004,Ludacris,"Get Back",59
+2005,"Pretty Ricky","Your Body",59
+2004,"Kelly Clarkson","Behind These Hazel Eyes",59
+2004,"Gwen Stefani",Cool,59
+2006,Ciara,"Get Up (feat. Chamillionaire)",59
+2006,Keane,"Is It Any Wonder?",59
+2006,Razorlight,"In The Morning",59
+2007,"Gym Class Heroes","Cupid's Chokehold / Breakfast in America - Radio Mix",59
+2006,"Fat Joe","Make It Rain",59
+2007,MiMS,"This Is Why I'm Hot",59
+2006,"Baby Boy Da Prince","The Way I Live - Main Explicit",59
+2017,T2,"Heartbroken - Edit",59
+2008,Wiley,"Wearing My Rolex - Radio Edit",59
+2007,OneRepublic,"Stop And Stare",59
+2009,Pitbull,"I Know You Want Me (Calle Ocho)",59
+2008,"Soulja Boy","Turn My Swag On",59
+2009,"Tinchy Stryder","Number 1",59
+2009,Fabolous,"Throw It In The Bag",59
+2009,"La Roux","In For The Kill",59
+2011,"Kelly Rowland",Commander,59
+2011,"Rizzle Kicks","Down With The Trumpets",59
+2000,Madonna,Music,58
+1999,"Britney Spears","Born to Make You Happy",58
+2010,"DJ Ã–tzi","Hey Baby (Radio Mix)",58
+2000,Madonna,"American Pie",58
+2000,Vengaboys,"Shalala Lala",58
+2001,Blue,"If You Come Back",58
+2001,"Atomic Kitten","Eternal Flame - Single Version",58
+2000,"Ronan Keating","Lovin' Each Day",58
+2002,"Truth Hurts",Addictive,58
+2002,Eve,"Gangsta Lovin'",58
+2002,"Musiq Soulchild",Halfcrazy,58
+2002,N.O.R.E.,Nothin',58
+2001,"Britney Spears","I'm Not a Girl, Not Yet a Woman",58
+2002,"Daniel Bedingfield","If You're Not The One",58
+2008,"Simply Red",Sunrise,58
+2003,"Girls Aloud","Sound Of The Underground",58
+2003,Sugababes,"Too Lost In You",58
+2002,Nas,"I Can",58
+2002,"Daniel Bedingfield","If You're Not The One",58
+2003,Sugababes,"Too Lost In You",58
+2004,"Avril Lavigne","Don't Tell Me",58
+2004,"The Streets","Fit but You Know It",58
+2005,"Robbie Williams",Tripping,58
+2005,"Kaiser Chiefs","Everyday I Love You Less And Less",58
+2004,"Destiny's Child","Cater 2 U",58
+2006,"Sean Paul","(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",58
+2006,Akon,"Smack That",58
+2007,"Keyshia Cole","Let It Go",58
+2007,"Elliott Yamin","Wait for You",58
+2007,"Take That","Rule The World - Radio Edit",58
+2008,"Lil Wayne","Got Money",58
+2007,"J. Holiday","Suffocate - Superclean",58
+2006,Fergie,Clumsy,58
+2009,Ciara,"Love Sex Magic (feat. Justin Timberlake)",58
+2005,"The Veronicas",Untouched,58
+2010,"Waka Flocka Flame","No Hands (feat. Roscoe Dash & Wale)",58
+2000,Mystikal,"Shake Ya Ass",57
+1999,"Donell Jones","Where I Wanna Be",57
+2001,"Missy Elliott","One Minute Man (feat. Ludacris)",57
+2001,112,"It's Over Now",57
+2000,Joe,"Stutter (feat. Mystikal) - Double Take Remix",57
+2001,"Jennifer Lopez",Play,57
+2001,2Pac,"Until The End Of Time",57
+2001,"Erick Sermon","Music (feat. Marvin Gaye)",57
+2002,"Alanis Morissette","Hands Clean",57
+2003,Sugababes,"Hole In The Head",57
+2004,Blue,"Sorry Seems To Be The Hardest Word",57
+2003,"Room 5","Make Luv",57
+2003,"50 Cent","Wanksta - From "8 Mile"" Soundtrack"",57
+2002,"Missy Elliott","Gossip Folks (feat. Ludacris)",57
+2002,Floetry,"Say Yes",57
+2003,Ludacris,"Stand Up",57
+2003,Westlife,Mandy,57
+2004,"George Michael",Amazing,57
+2004,D12,"How Come",57
+2004,N.E.R.D,"She Wants To Move",57
+2004,Nelly,"My Place",57
+2003,Kelis,Millionaire,57
+2003,"Jessica Simpson","With You",57
+2005,"Ying Yang Twins","Wait (The Whisper Song)",57
+2004,Infernal,"From Paris to Berlin",57
+2005,"The Pussycat Dolls",Beep,57
+2006,Fergie,"London Bridge",57
+2007,BeyoncÃ©,"Deja Vu (feat. Jay-Z)",57
+2007,"Leona Lewis","A Moment Like This",57
+2007,"Calvin Harris","Acceptable in the 80's",57
+2006,Omarion,"Ice Box",57
+2007,"Pretty Ricky","On the Hotline - Amended Version",57
+2006,"Justin Timberlake","LoveStoned / I Think She Knows (Interlude)",57
+2006,"Bow Wow","Outta My System (feat. T-Pain & JohntÃ¡ Austin)",57
+2007,"Rich Boy","Throw Some D's",57
+2006,MIKA,"Love Today",57
+2008,Madonna,"Give It 2 Me",57
+2008,Pendulum,"Propane Nightmares",57
+2008,"Danity Kane",Damaged,57
+2007,Santana,"Into the Night (feat. Chad Kroeger)",57
+2009,"The Prodigy",Omen,57
+2009,"Alexandra Burke","Bad Boys (feat. Flo Rida)",57
+2009,"Jordin Sparks",Battlefield,57
+2009,"Keri Hilson","Knock You Down",57
+2010,Ne-Yo,"Beautiful Monster",57
+2010,"Tinie Tempah","Written in the Stars (feat. Eric Turner)",57
+2009,"Adam Lambert","Whataya Want from Me",57
+2009,K'NAAN,"Wavin' Flag",57
+2010,"Take That","The Flood",57
+2010,Drake,Over,57
+2011,"Jessie J","Do It Like A Dude",57
+1999,"Eiffel 65","Move Your Body - Gabry Ponte Original Radio Edit",56
+1999,"Madison Avenue","Don't Call Me Baby",56
+1999,"Marc Anthony","You Sang To Me",56
+2000,"Jagged Edge",Promise,56
+2001,"Sunshine Anderson","Heard It All Before",56
+2000,OPM,"Heaven Is a Halfpipe (If I Die)",56
+2000,3LW,"No More (Baby I'ma Do Right)",56
+2002,"Daniel Bedingfield","Gotta Get Thru This - D'N'D Radio Edit",56
+2002,"The Goo Goo Dolls","Here Is Gone",56
+2001,"Enrique Iglesias",Escape,56
+2003,"Black Eyed Peas","Shut Up",56
+2002,JAY-Z,"Excuse Me Miss",56
+2004,O-Zone,"Dragostea Din Tei",56
+1999,Anastacia,"Sick and Tired",56
+2004,Ashanti,"Only U - No Intro",56
+2004,"LL Cool J",Headsprung,56
+2003,"Petey Pablo",Freek-A-Leek,56
+2003,Avant,"Read Your Mind",56
+2004,Twista,"Sunshine (feat. Anthony Hamilton)",56
+2004,"Ashlee Simpson","Pieces Of Me",56
+2005,"Rob Thomas","Lonely No More",56
+2005,"Craig David","Don't Love You No More (I'm Sorry)",56
+2004,U2,"Sometimes You Can't Make It On Your Own",56
+2006,Jibbs,"Chain Hang Low",56
+2006,"The Raconteurs","Steady, As She Goes",56
+2006,Ciara,Promise,56
+2007,"Wyclef Jean","Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",56
+2007,"Snoop Dogg","Sensual Seduction",56
+2008,"Gabriella Cilmi","Sweet About Me",56
+2007,"Jack White","Another Way to Die",56
+2008,"3 Doors Down","It's Not My Time",56
+2007,"Jordin Sparks","One Step At a Time",56
+2009,"Kelly Clarkson","Already Gone",56
+2010,Drake,"Find Your Love",56
+2000,"Bomfunk MC's",Freestyler,55
+2000,"Kylie Minogue","Spinning Around",55
+2000,Avant,Separated,55
+2000,"Jagged Edge","He Can't Love U",55
+2000,Sammie,"I Like It",55
+2000,Kandi,"Don't Think I'm Not",55
+2000,P!nk,"There You Go",55
+2001,Case,"Missing You",55
+2001,"Busta Rhymes","Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix",55
+2000,"Kylie Minogue","Spinning Around",55
+2001,"Kylie Minogue","Love at First Sight",55
+2002,Ashanti,Baby,55
+2002,Jaheim,"Put That Woman First",55
+2003,"Will Young","Leave Right Now",55
+2003,"Alicia Keys","Diary (feat. Tony! Toni! Tone! & Jermaine Paul)",55
+2003,"Katie Melua","The Closest Thing to Crazy",55
+2003,"Will Young","Leave Right Now",55
+2005,Jeezy,"Soul Survivor",55
+2004,"Destiny's Child",Girl,55
+2006,Diddy,"Come to Me (feat. Nicole Scherzinger)",55
+2007,"The Ting Tings","Shut Up and Let Me Go",55
+2008,"John Legend","Green Light (feat. AndrÃ© 3000)",55
+2009,"Calvin Harris","I'm Not Alone - Radio Edit",55
+2008,"Taylor Swift","You Belong With Me",55
+2009,Rihanna,Hard,55
+2012,"DJ Fresh","Louder (feat. Sian Evans) - Radio Edit",55
+2000,M.O.P.,"Cold as Ice",54
+1999,"Melanie C","I Turn To You",54
+2000,Moloko,"The Time Is Now",54
+1999,"Enrique Iglesias","Be With You",54
+1999,"Savage Garden","Crash and Burn",54
+2000,"Erykah Badu","Bag Lady",54
+2000,"Matchbox Twenty",Bent,54
+2006,iio,"Rapture (feat.Nadia Ali)",54
+2001,"Emma Bunton","What Took You So Long?",54
+2001,"Rui Da Silva","Touch Me (Radio Edit) [feat. Cassandra]",54
+2001,"DJ Pied Piper & The Masters Of Ceremonies","Do You Really Like It? - Radio Edit",54
+2000,Ludacris,"Southern Hospitality (Featuring Pharrell)",54
+2002,"Holly Valance","Kiss Kiss",54
+2003,"Delta Goodrem","Born to Try",54
+2003,"Delta Goodrem","Lost Without You",54
+2003,Youngbloodz,"Damn! (feat. Lil' Jon) - Club Mix",54
+2002,"Kelly Rowland",Stole,54
+2005,Bodyrockers,"I Like The Way - Radio Edit",54
+2004,"Snoop Dogg",Signs,54
+2007,"Kanye West",Stronger,54
+2008,"Gym Class Heroes","Cookie Jar (feat. The-Dream)",54
+2007,"Jordin Sparks",Tattoo,54
+2009,"Pixie Lott","Mama Do (Uh Oh, Uh Oh)",54
+2009,"Lily Allen","Not Fair",54
+2010,Drake,"Best I Ever Had",54
+2010,"Swedish House Mafia","Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah",54
+2009,"Trey Songz","Say Aah (feat. Fabolous)",54
+2010,"Ellie Goulding","Starry Eyed",54
+2002,Aaliyah,"Try Again",53
+2000,"Da Brat","What'chu Like (feat. Tyrese)",53
+2015,Faithless,"We Come 1 - Radio Edit",53
+2000,Madonna,"Don't Tell Me",53
+2000,Steps,"It's the Way You Make Me Feel",53
+2003,Madonna,"Die Another Day",53
+2002,"Jennifer Lopez","I'm Gonna Be Alright (feat. Nas)",53
+2003,"Gareth Gates","Anyone of Us (Stupid Mistake)",53
+2001,"Faith Evans","I Love You",53
+2001,A1,"Caught in the Middle",53
+2004,"Black Eyed Peas","Let's Get It Started - Spike Mix",53
+2004,"Britney Spears","My Prerogative",53
+2003,JAY-Z,"Dirt Off Your Shoulder",53
+2006,Akon,"I Wanna Love You",53
+2007,"Manic Street Preachers","Your Love Alone Is Not Enough (feat. Nina Persson)",53
+2008,"Sam Sparro","Black & Gold - Radio Edit",53
+2009,"Lily Allen","The Fear",53
+2010,"Tinie Tempah","Pass Out",53
+2019,"Chris Brown","Beautiful People",53
+2000,"Ruff Endz","No More",52
+2004,Next,Wifey,52
+2000,P!nk,"Most Girls",52
+2000,"Carl Thomas","I Wish",52
+2008,"Ricky Martin","Nobody Wants to Be Lonely (with Christina Aguilera)",52
+2002,Brandy,"Full Moon",52
+2001,"Alicia Keys","A Woman's Worth",52
+2016,Nelly,"Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster",52
+2004,Eminem,"Ass Like That",52
+2005,"David Banner",Play,52
+2005,Ciara,"1, 2 Step (feat. Missy Elliott) - Main",52
+2008,Amerie,"1 Thing",52
+2005,"Natalie Imbruglia",Shiver,52
+2012,"3 Doors Down","Let Me Go",52
+2006,Huey,"Pop, Lock & Drop It - Video Edit",52
+2006,Akon,"Don't Matter",52
+2006,"Just Jack","Starz In Their Eyes",52
+2007,"Kanye West","Flashing Lights",52
+2017,"Scouting For Girls","This Ain't a Love Song",52
+2001,"So Solid Crew","21 Seconds",51
+2001,Outkast,"The Whole World (feat. Killer Mike)",51
+2004,"DJ Casper","Cha Cha Slide - Hardino Mix",51
+2006,Ludacris,"Runaway Love",51
+2008,"Alesha Dixon","The Boy Does Nothing",51
+2008,"The Ting Tings","That's Not My Name",51
+2008,"Gavin DeGraw","In Love With a Girl",51
+2009,Mario,"Break Up",51
+2010,"DJ Khaled","All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",51
+2009,"Kris Allen","Live Like We're Dying",51
+2011,"Lykke Li","I Follow Rivers - The Magician Remix",51
+2002,Brandy,"Another Day in Paradise - R&B-Version",50
+2001,Fragma,"Everytime You Need Me - Radio Version",50
+2000,"Roger Sanchez","Another Chance",50
+2001,*NSYNC,Girlfriend,50
+2003,"Counting Crows","Big Yellow Taxi",50
+2003,Ashanti,"Rain On Me",50
+2004,Trillville,"Some Cut",50
+2003,"Alicia Keys",Karma,50
+2006,Kelis,Bossy,50
+2009,"Jason Aldean","Big Green Tractor",50
+2000,"Debelah Morgan","Dance with Me",49
+1998,"Missy Elliott","Hot Boyz",49
+2000,Fuel,"Hemorrhage (In My Hands)",49
+2001,"Missy Elliott","4 My People (feat. Eve)",49
+2002,B2K,"Uh Huh",49
+2009,"Fatman Scoop","Be Faithful",49
+2003,"Frankie J","Don't Wanna Try",49
+2003,"Black Eyed Peas","Hey Mama",49
+2005,JoJo,"Leave (Get Out) - Radio Edit",49
+2005,"Bob Sinclar","Love Generation - Radio Edit",49
+2012,"Girls Aloud","Something Kinda Ooooh",49
+2006,"James Morrison","Wonderful World",49

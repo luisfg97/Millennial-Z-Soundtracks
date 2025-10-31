@@ -1,0 +1,836 @@
+artist,type,year_of_birth_or_formation,nationality,artist_id
+Britney Spears,artist,1981,United States,1
+blink-182,group,1992,United States,2
+Faith Hill,artist,1967,United States,3
+Bon Jovi,group,1983,United States,4
+*NSYNC,group,1995,United States,5
+Sisqo,artist,1978,United States,6
+Eminem,artist,1972,United States,7
+Robbie Williams,artist,1974,United Kingdom,8
+Destiny's Child,group,1990,United States,9
+Modjo,group,1999,France,10
+Gigi D'Agostino,artist,1967,Italy,11
+Eiffel 65,group,1998,Italy,12
+Bomfunk MC's,group,1998,Finland,13
+Sting,artist,1951,United Kingdom,14
+Melanie C,artist,1974,United Kingdom,15
+Aaliyah,artist,1979,United States,16
+Anastacia,artist,1968,United States,17
+Alice Deejay,group,1999,Netherlands,18
+Dr. Dre,artist,1965,United States,19
+Linkin Park,group,1996,United States,20
+Tom Jones,artist,1940,United Kingdom,21
+Sonique,artist,1969,United Kingdom,22
+M.O.P.,group,1986,United States,23
+Limp Bizkit,group,1994,United States,24
+Darude,artist,1975,Finland,25
+Da Brat,artist,1974,United States,26
+Moloko,group,1994,Ireland,27
+Chicane,artist,1971,United Kingdom,28
+DMX,artist,1970,United States,29
+Debelah Morgan,artist,1977,United States,30
+Madonna,artist,1958,United States,31
+Ruff Endz,group,1994,United States,32
+Montell Jordan,artist,1968,United States,33
+Kylie Minogue,artist,1968,Australia,34
+JAY-Z,artist,1969,United States,35
+LeAnn Rimes,artist,1982,United States,36
+Avant,artist,1978,United States,37
+Enrique Iglesias,artist,1975,Spain,38
+Toni Braxton,artist,1967,United States,39
+Bow Wow,artist,1987,United States,40
+Missy Elliott,artist,1971,United States,41
+Backstreet Boys,group,1993,United States,42
+Samantha Mumba,artist,1983,Ireland,43
+Mýa,artist,1979,United States,44
+Mary Mary,group,1998,United States,45
+Next,group,1992,United States,46
+Janet Jackson,artist,1966,United States,47
+Ricky Martin,artist,1971,Puerto Rico,48
+Jagged Edge,group,1995,United States,49
+Mariah Carey,artist,1969,United States,50
+Baha Men,group,1990,Bahamas,51
+Donell Jones,artist,1973,United States,52
+Oasis,group,1991,United Kingdom,53
+DJ Ötzi,artist,1971,Austria,54
+P!nk,artist,1979,United States,55
+Craig David,artist,1981,United Kingdom,56
+Christina Aguilera,artist,1980,United States,57
+Red Hot Chili Peppers,group,1983,United States,58
+Sammie,artist,1987,United States,59
+Santana,group,1966,United States,60
+Kandi,artist,1978,United States,61
+Vengaboys,group,1997,Netherlands,62
+Ronan Keating,artist,1977,Ireland,63
+Madison Avenue,group,1999,Australia,64
+Céline Dion,artist,1968,Canada,65
+3 Doors Down,group,1996,United States,66
+Carl Thomas,artist,1972,United States,67
+Mystikal,artist,1970,United States,68
+Fuel,group,1989,United States,69
+Savage Garden,group,1994,Australia,70
+Westlife,group,1998,Ireland,71
+All Saints,group,1993,United Kingdom,72
+Erykah Badu,artist,1971,United States,73
+Marc Anthony,artist,1968,United States,74
+Matchbox Twenty,group,1995,United States,75
+Gabrielle,artist,1969,United Kingdom,76
+Creed,group,1994,United States,77
+The Corrs,group,1990,Ireland,78
+Joe,artist,1973,United States,79
+Wheatus,group,1995,United States,80
+Nelly,artist,1974,United States,81
+Shaggy,artist,1968,Jamaica,82
+Nelly Furtado,artist,1978,Canada,83
+Shakira,artist,1977,Colombia,84
+Jimmy Eat World,group,1993,United States,85
+Train,group,1993,United States,86
+Geri Halliwell,artist,1972,United Kingdom,87
+Blu Cantrell,artist,1976,United States,88
+Mary J. Blige,artist,1971,United States,89
+Faithless,group,1995,United Kingdom,90
+Lasgo,group,2000,Belgium,91
+iio,group,1997,United States,92
+Emma Bunton,artist,1976,United Kingdom,93
+112,group,1991,United States,94
+Blue,group,2000,United Kingdom,95
+Jessica Simpson,artist,1980,United States,96
+Crazy Town,group,1995,United States,97
+Michael Jackson,artist,1958,United States,98
+Eve,artist,1978,United States,99
+Jennifer Lopez,artist,1969,United States,100
+Brandy,artist,1979,United States,101
+Nickelback,group,1995,Canada,102
+Daft Punk,group,1993,France,103
+Outkast,group,1992,United States,104
+Fragma,group,1998,Germany,105
+Dido,artist,1971,United Kingdom,106
+P.O.D.,group,1992,United States,107
+Christina Milian,artist,1981,United States,108
+Roger Sanchez,artist,1969,United States,109
+Gorillaz,group,1998,United Kingdom,110
+2Pac,artist,1971,United States,111
+Tamia,artist,1975,Canada,112
+Jamiroquai,group,1992,United Kingdom,113
+Case,artist,1975,United States,114
+Five,group,1997,United Kingdom,115
+Rui Da Silva,artist,1968,Portugal,116
+Alien Ant Farm,group,1996,United States,117
+Erick Sermon,artist,1968,United States,118
+D12,group,1996,United States,119
+Usher,artist,1978,United States,120
+Atomic Kitten,group,1998,United Kingdom,121
+Afroman,artist,1974,United States,122
+S Club 7,group,1998,United Kingdom,123
+The Supermen Lovers,group,1999,France,124
+Mis-Teeq,group,1999,United Kingdom,125
+Enya,artist,1961,Ireland,126
+Steps,group,1997,United Kingdom,127
+Sunshine Anderson,artist,1974,United States,128
+Lenny Kravitz,artist,1964,United States,129
+Daniel Bedingfield,artist,1979,United Kingdom,130
+DB Boulevard,group,1999,Italy,131
+Ja Rule,artist,1976,United States,132
+DJ Pied Piper & The Masters Of Ceremonies,group,2001,United Kingdom,133
+Musiq Soulchild,artist,1977,United States,134
+So Solid Crew,group,1998,United Kingdom,135
+Basement Jaxx,group,1994,United Kingdom,136
+Ludacris,artist,1977,United States,137
+Trick Daddy,artist,1974,United States,138
+Travis,group,1990,United Kingdom,139
+OPM,group,1999,United States,140
+K-Ci & JoJo,group,1994,United States,141
+Staind,group,1995,United States,142
+3LW,group,1999,United States,143
+Ginuwine,artist,1970,United States,144
+Lifehouse,group,1999,United States,145
+Avril Lavigne,artist,1984,Canada,146
+Vanessa Carlton,artist,1980,United States,147
+The Calling,group,1996,United States,148
+No Doubt,group,1986,United States,149
+Truth Hurts,artist,1971,United States,150
+Busta Rhymes,artist,1972,United States,151
+Diddy,artist,1969,United States,152
+Angie Martinez,artist,1971,United States,153
+Las Ketchup,group,2002,Spain,154
+Holly Valance,artist,1983,Australia,155
+Sugababes,group,1998,United Kingdom,156
+Marilyn Manson,artist,1969,United States,157
+Chad Kroeger,artist,1974,Canada,158
+Scooter,group,1993,Germany,159
+Disturbing Tha Peace,group,2000,United States,160
+Khia,artist,1976,United States,161
+Tweet,artist,1971,United States,162
+Gareth Gates,artist,1984,United Kingdom,163
+B2K,group,1998,United States,164
+Dirty Vegas,group,2000,United Kingdom,165
+Fat Joe,artist,1970,United States,166
+Liberty X,group,2001,United Kingdom,167
+LL Cool J,artist,1968,United States,168
+Sean Paul,artist,1973,Jamaica,169
+Faith Evans,artist,1973,United States,170
+Charli Baltimore,artist,1974,United States,171
+N.O.R.E.,artist,1977,United States,172
+Big Brovaz,group,2002,United Kingdom,173
+Ashanti,artist,1980,United States,174
+Sophie Ellis-Bextor,artist,1979,United Kingdom,175
+Justin Timberlake,artist,1981,United States,176
+A1,group,1998,United Kingdom,177
+Delta Goodrem,artist,1984,Australia,178
+Alicia Keys,artist,1981,United States,179
+Coldplay,group,1996,United Kingdom,180
+Big Tymers,group,1997,United States,181
+DJ Sammy,artist,1969,Spain,182
+Cam’ron,artist,1976,United States,183
+Elvis Presley,artist,1935,United States,184
+Alanis Morissette,artist,1974,Canada,185
+The Goo Goo Dolls,group,1986,United States,186
+Puddle Of Mudd,group,1991,United States,187
+Blazin' Squad,group,2002,United Kingdom,188
+Default,group,1999,Canada,189
+Michelle Branch,artist,1983,United States,190
+50 Cent,artist,1975,United States,191
+Beyoncé,artist,1981,United States,192
+Counting Crows,group,1991,United States,193
+Black Eyed Peas,group,1995,United States,194
+t.A.T.u.,group,1999,Russia,195
+Benny Benassi,artist,1967,Italy,196
+Panjabi MC,artist,1973,United Kingdom,197
+Jamelia,artist,1981,United Kingdom,198
+Evanescence,group,1995,United States,199
+Three Days Grace,group,1997,Canada,200
+Lil Jon & The East Side Boyz,group,1997,United States,201
+Baby Bash,artist,1975,United States,202
+The White Stripes,group,1997,United States,203
+Youngbloodz,group,1999,United States,204
+Lil' Kim,artist,1974,United States,205
+Trapt,group,1995,United States,206
+Simply Red,group,1985,United Kingdom,207
+Lumidee,artist,1984,United States,208
+Girls Aloud,group,2002,United Kingdom,209
+Room 5,group,2003,Italy,210
+Fatman Scoop,artist,1971,United States,211
+Pharrell Williams,artist,1973,United States,212
+Chingy,artist,1980,United States,213
+Ultrabeat,group,2002,United Kingdom,214
+Frankie J,artist,1975,United States,215
+Snoop Dogg,artist,1971,United States,216
+Floetry,group,1999,United States,217
+Electric Six,group,1996,United States,218
+Rachel Stevens,artist,1978,United Kingdom,219
+Nas,artist,1973,United States,220
+Tyrese,artist,1978,United States,221
+Amanda Perez,artist,1974,United States,222
+Kelly Rowland,artist,1981,United States,223
+Junior Senior,group,1998,Denmark,224
+Audioslave,group,2001,United States,225
+Jaheim,artist,1978,United States,226
+Monica,artist,1980,United States,227
+The Roots,group,1987,United States,228
+Fabolous,artist,1977,United States,229
+Kelly Clarkson,artist,1982,United States,230
+Switchfoot,group,1996,United States,231
+Good Charlotte,group,1996,United States,232
+Wayne Wonder,artist,1972,Jamaica,233
+The Strokes,group,1998,United States,234
+Will Young,artist,1979,United Kingdom,235
+Maroon 5,group,1994,United States,236
+Hoobastank,group,1994,United States,237
+Daddy Yankee,artist,1977,Puerto Rico,238
+O-Zone,group,1998,Moldova,239
+Terror Squad,group,1998,United States,240
+Gwen Stefani,artist,1969,United States,241
+The Rasmus,group,1994,Finland,242
+Houston,artist,1983,United States,243
+Lloyd Banks,artist,1982,United States,244
+Akon,artist,1973,United States,245
+Jay Sean,artist,1981,United Kingdom,246
+Mario Winans,artist,1974,United States,247
+Eric Prydz,artist,1976,Sweden,248
+Ciara,artist,1985,United States,249
+Kelis,artist,1979,United States,250
+piderbait,group,1989,Australia,251
+George Michael,artist,1963,United Kingdom,252
+Nina Sky,group,1980,United States,253
+Petey Pablo,artist,1973,United States,254
+Juanes,artist,1972,Colombia,255
+Ying Yang Twins,group,1997,United States,256
+JoJo,artist,1990,United States,257
+The Shapeshifters,group,1999,United Kingdom,258
+Kevin Lyttle,artist,1976,St. Vincent and the Grenadines,259
+T.I.,artist,1980,United States,260
+DJ Casper,artist,1970,United States,261
+Twista,artist,1973,United States,262
+N.E.R.D,group,1999,United States,263
+U2,group,1976,Ireland,264
+Franz Ferdinand,group,2002,United Kingdom,265
+J-Kwon,artist,1986,United States,266
+G-Unit,group,2002,United States,267
+Lil' Flip,artist,1981,United States,268
+Kanye West,artist,1977,United States,269
+Lemar,artist,1978,United Kingdom,270
+Green Day,group,1987,United States,271
+Scissor Sisters,group,2001,United States,272
+Special D.,artist,1980,Germany,273
+Eamon,artist,1983,United States,274
+Katie Melua,artist,1984,Georgia,275
+Lloyd,artist,1986,United States,276
+LMC,group,2003,United Kingdom,277
+The Streets,group,1994,United Kingdom,278
+JUVENILE,artist,1975,United States,279
+Gary Jules,artist,1969,United States,280
+Ashlee Simpson,artist,1984,United States,281
+Mario,artist,1986,United States,282
+Rihanna,artist,1988,Barbados,283
+James Blunt,artist,1974,United Kingdom,284
+The Pussycat Dolls,group,2003,United States,285
+Daniel Powter,artist,1971,Canada,286
+Crazy Frog,artist,2003,Sweden,287
+The Chemical Brothers,group,1989,United Kingdom,288
+Fort Minor,group,2004,United States,289
+The Game,artist,1979,United States,290
+Chris Brown,artist,1989,United States,291
+Bodyrockers,group,2004,United Kingdom,292
+Jeezy,artist,1977,United States,293
+David Banner,artist,1974,United States,294
+Trillville,group,1997,United States,295
+D4L,group,2003,United States,296
+Rob Thomas,artist,1972,United States,297
+Brian McFadden,artist,1980,Ireland,298
+Bobby V.,artist,1980,United States,299
+Pretty Ricky,group,1997,United States,300
+Amerie,artist,1980,United States,301
+Natalie Imbruglia,artist,1975,Australia,302
+Thirty Seconds To Mars,group,1998,United States,303
+Will Smith,artist,1968,United States,304
+Kaiser Chiefs,group,2000,United Kingdom,305
+Ray J,artist,1981,United States,306
+Papa Roach,group,1993,United States,307
+Arctic Monkeys,group,2002,United Kingdom,308
+Shayne Ward,artist,1984,United Kingdom,309
+T-Pain,artist,1985,United States,310
+Ryan Cabrera,artist,1982,United States,311
+Stereophonics,group,1992,United Kingdom,312
+KT Tunstall,artist,1975,United Kingdom,313
+The All-American Rejects,group,1999,United States,314
+Toby Keith,artist,1961,United States,315
+Foo Fighters,group,1994,United States,316
+Amy Winehouse,artist,1983,United Kingdom,317
+Gnarls Barkley,group,2006,United States,318
+Bob Sinclar,artist,1969,France,319
+Chamillionaire,artist,1979,United States,320
+Fedde Le Grand,artist,1977,Netherlands,321
+Cherish,group,2002,United States,322
+Muse,group,1994,United Kingdom,323
+Infernal,group,1997,Denmark,324
+Cassie,artist,1986,United States,325
+E-40,artist,1967,United States,326
+Lil Jon,artist,1971,United States,327
+Armand Van Helden,artist,1970,United States,328
+The Notorious B.I.G.,artist,1972,United States,329
+Yung Joc,artist,1983,United States,330
+Take That,group,1990,United Kingdom,331
+Fergie,artist,1975,United States,332
+Cascada,group,2004,Germany,333
+Meck,artist,1975,United Kingdom,334
+Dem Franchize Boyz,group,2002,United States,335
+Fall Out Boy,group,2001,United States,336
+Leona Lewis,artist,1985,United Kingdom,337
+Nick Lachey,artist,1973,United States,338
+Jibbs,artist,1990,United States,339
+Rascal Flatts,group,1999,United States,340
+Keyshia Cole,artist,1981,United States,341
+Lily Allen,artist,1985,United Kingdom,342
+Ne-Yo,artist,1979,United States,343
+Bubba Sparxxx,artist,1977,United States,344
+Hinder,group,2001,United States,345
+The Raconteurs,group,2005,United States,346
+The Fratellis,group,2005,United Kingdom,347
+Panic! At The Disco,group,2004,United States,348
+Keane,group,1995,United Kingdom,349
+Orson,group,2000,United States,350
+Natasha Bedingfield,artist,1981,United Kingdom,351
+Razorlight,group,2002,United Kingdom,352
+James Morrison,artist,1985,United Kingdom,353
+Snow Patrol,group,1994,United Kingdom,354
+The Fray,group,2002,United States,355
+Sandi Thom,artist,1981,United Kingdom,356
+My Chemical Romance,group,2001,United States,357
+The Kooks,group,2004,United Kingdom,358
+Mark Ronson,artist,1975,United Kingdom,359
+Plain White T's,group,1997,United States,360
+Timbaland,artist,1972,United States,361
+Ida Corr,artist,1977,Denmark,362
+Alex Gaudino,artist,1970,Italy,363
+September,artist,1984,Sweden,364
+Gym Class Heroes,group,1997,United States,365
+Soulja Boy,artist,1990,United States,366
+Camille Jones,artist,1974,Denmark,367
+Shop Boyz,group,2002,United States,368
+Finger Eleven,group,1989,Canada,369
+MiMS,artist,1982,United States,370
+Seether,group,1999,South Africa,371
+Calvin Harris,artist,1984,United Kingdom,372
+Daughtry,group,2006,United States,373
+Unk,artist,1982,United States,374
+Klaxons,group,2005,United Kingdom,375
+Baby Boy Da Prince,artist,1986,United States,376
+Omarion,artist,1984,United States,377
+All Time Low,group,2003,United States,378
+T2,group,2007,United Kingdom,379
+Robyn,artist,1979,Sweden,380
+Paramore,group,2004,United States,381
+Huey,artist,1987,United States,382
+Plies,artist,1986,United States,383
+Jim Jones,artist,1976,United States,384
+The Red Jumpsuit Apparatus,group,2003,United States,385
+MIKA,artist,1983,Lebanon,386
+Sean Kingston,artist,1990,Jamaica,387
+Carrie Underwood,artist,1983,United States,388
+Just Jack,artist,1975,United Kingdom,389
+Bone Thugs-N-Harmony,group,1991,United States,390
+Rich Boy,artist,1983,United States,391
+Manic Street Preachers,group,1986,United Kingdom,392
+Elliott Yamin,artist,1978,United States,393
+Wyclef Jean,artist,1969,Haiti ,394
+Boys Like Girls,group,2005,United States,395
+J. Holiday,artist,1985,United States,396
+Flo Rida,artist,1979,United States,397
+Katy Perry,artist,1984,United States,398
+Kardinal Offishall,artist,1976,Canada,399
+Madcon,group,1992,Norway,400
+Guru Josh Project,artist,1964,United Kingdom,401
+Lil Wayne,artist,1982,United States,402
+Basshunter,artist,1984,Sweden,403
+will.i.am,artist,1975,United States,404
+Colby O'Donis,artist,1989,United States,405
+Miley Cyrus,artist,1992,United States,406
+Alesha Dixon,artist,1978,United Kingdom,407
+Dizzee Rascal,artist,1984,United Kingdom,408
+Gabriella Cilmi,artist,1991,Australia,409
+Jack White,artist,1975,United States,410
+The Offspring,group,1984,United States,411
+Estelle,artist,1980,United Kingdom,412
+Saving Abel,group,2004,United States,413
+Pendulum,group,2002,Australia,414
+Danity Kane,group,2005,United States,415
+M.I.A.,artist,1975,Sri Lanka,416
+MGMT,group,2002,United States,417
+The Ting Tings,group,2007,United Kingdom,418
+The-Dream,artist,1977,United States,419
+Wiley,artist,1979,United Kingdom,420
+Sam Sparro,artist,1982,Australia,421
+"H \two\"" O""",group,2008,United Kingdom,422
+Metro Station,group,2006,United States,423
+Trey Songz,artist,1984,United States,424
+OneRepublic,group,2002,United States,425
+Alexandra Burke,artist,1988,United Kingdom,426
+Jordin Sparks,artist,1989,United States,427
+Kings of Leon,group,1999,United States,428
+Duffy,artist,1984,United Kingdom,429
+David Archuleta,artist,1990,United States,430
+Gavin DeGraw,artist,1977,United States,431
+Jennifer Hudson,artist,1981,United States,432
+John Legend,artist,1978,United States,433
+Jonas Brothers,group,2005,United States,434
+Lupe Fiasco,artist,1982,United States,435
+Adele,artist,1988,United Kingdom,436
+Lady Gaga,artist,1986,United States,437
+David Guetta,artist,1967,France,438
+Taylor Swift,artist,1989,United States,439
+Pitbull,artist,1981,United States,440
+Skillet,group,1996,United States,441
+The Prodigy,group,1990,United Kingdom,442
+Kid Cudi,artist,1984,United States,443
+Agnes,artist,1988,Sweden,444
+Jeremih,artist,1987,United States,445
+Kevin Rudolf,artist,1983,United States,446
+The xx,group,2005,United Kingdom,447
+Keri Hilson,artist,1982,United Kingdom,448
+Cheryl,artist,1983,United Kingdom,449
+Tinchy Stryder,artist,1986,United Kingdom,450
+Pixie Lott,artist,1991,United Kingdom,451
+JLS,group,2006,United Kingdom,452
+3OH!3,group,2004,United States,453
+A.R. Rahman,artist,1967,India,454
+Drake,artist,1986,Canada,455
+Selena Gomez & The Scene,group,2009,United States,456
+The Veronicas,group,2004,Australia,457
+Jason Derulo,artist,1989,United States,458
+Empire of the Sun,group,2007,Australia,459
+Cobra Starship,group,2005,United States,460
+La Roux,group,2008,United Kingdom,461
+Kasabian,group,1997,United Kingdom,462
+Justin Bieber,artist,1994,Canada,463
+Jamie Foxx,artist,1967,United States,464
+Jason Aldean,artist,1977,United States,465
+Shinedown,group,2001,United States,466
+Asher Roth,artist,1985,United States,467
+Mumford & Sons,group,2007,United Kingdom,468
+Bruno Mars,artist,1985,United States,469
+Stromae,artist,1985,Belgium,470
+Kesha,artist,1987,United States,471
+Taio Cruz,artist,1985,United Kingdom,472
+INNA,artist,1986,Romania,473
+Far East Movement,group,2003,United States,474
+Duck Sauce,group,2009,United States,475
+Lucenzo,artist,1983,France,476
+DJ Fresh,artist,1977,United Kingdom,477
+Edward Maya,artist,1986,Romania,478
+Sidney Samson,artist,1981,Netherlands,479
+Swedish House Mafia,group,2008,Sweden,480
+Iyaz,artist,1987,British Virgin Islands,481
+Waka Flocka Flame,artist,1986,United States,482
+Tinie Tempah,artist,1988,United Kingdom,483
+Mike Posner,artist,1988,United States,484
+Yolanda Be Cool,group,2009,Australia,485
+Adam Lambert,artist,1982,United States,486
+Tim Berg,artist,1987,Sweden,487
+Cali Swag District,group,2009,United States,488
+K'NAAN,artist,1978,Somalia,489
+DJ Khaled,artist,1975,United States,490
+Aloe Blacc,artist,1979,United States,491
+B.o.B,artist,1988,United States,492
+Shontelle,artist,1985,Barbados,493
+Example,artist,1982,United Kingdom,494
+Plan B,artist,1983,United Kingdom,495
+The Saturdays,group,2007,United Kingdom,496
+The Wanted,group,2009,United Kingdom,497
+Ellie Goulding,artist,1986,United Kingdom,498
+Two Door Cinema Club,group,2007,United Kingdom,499
+Young Money,group,2005,United States,500
+Scouting For Girls,group,2005,United Kingdom,501
+Travie McCoy,artist,1981,United States,502
+Owl City,artist,1989,United States,503
+Lady A,group,2006,United States,504
+Neon Trees,group,2005,United States,505
+Kris Allen,artist,1985,United States,506
+Matt Cardle,artist,1983,United Kingdom,507
+The Band Perry,group,2005,United States,508
+LMFAO,group,2006,United States,509
+Alexandra Stan,artist,1989,Romania,510
+Lykke Li,artist,1986,Sweden,511
+Wiz Khalifa,artist,1987,United States,512
+Sak Noel,artist,1983,Spain,513
+Olly Murs,artist,1984,United Kingdom,514
+Jessie J,artist,1988,United Kingdom,515
+M83,group,2001,France,516
+Labrinth,artist,1989,United Kingdom,517
+Nicole Scherzinger,artist,1978,United States,518
+Mann,artist,1985,United States,519
+Miguel,artist,1985,United States,520
+Diddy - Dirty Money,group,2009,United States,521
+Professor Green,artist,1983,United Kingdom,522
+Chase & Status,group,2003,United Kingdom,523
+Chip,artist,1990,United Kingdom,524
+Rizzle Kicks,group,2008,United Kingdom,525
+Nicki Minaj,artist,1982,Trinidad and Tobago,526
+Mac Miller,artist,1992,United States,527
+Foster The People,group,2009,United States,528
+Bad Meets Evil,group,2001,United States,529
+Blake Shelton,artist,1976,United States,530
+Hot Chelle Rae,group,2005,United States,531
+Grouplove,group,2009,United States,532
+Christina Perri,artist,1986,United States,533
+Charlene Soraia,artist,1988,United Kingdom,534
+Carly Rae Jepsen,artist,1985,Canada,535
+fun.,group,2008,United States,536
+DEV,artist,1989,United States,537
+Skrillex,artist,1988,United States,538
+Kendrick Lamar,artist,1987,United States,539
+MARINA,artist,1985,United Kingdom,540
+PSY,artist,1977,South Korea,541
+Avicii,artist,1989,Sweden,542
+Asaf Avidan & the Mojos,group,2006,Israel,543
+Florence + The Machine,group,2007,United Kingdom,544
+Azealia Banks,artist,1991,United States,545
+James Arthur,artist,1988,United Kingdom,546
+Michel Teló,artist,1981,Brazil,547
+Otto Knows,artist,1989,Sweden,548
+Icona Pop,group,2009,Sweden,549
+Tyga,artist,1989,United States,550
+Grimes,artist,1988,Canada,551
+Frank Ocean,artist,1987,United States,552
+The Script,group,2001,Ireland,553
+ScHoolboy Q,artist,1986,United States,554
+Rita Ora,artist,1990,United Kingdom,555
+Alex Clare,artist,1985,United Kingdom,556
+Alesso,artist,1991,Sweden,557
+Guy Sebastian,artist,1981,Australia,558
+Gotye,artist,1980,Belgium,559
+One Direction,group,2010,United Kingdom,560
+Lana Del Rey,artist,1985,United States,561
+Emeli Sandé,artist,1987,United Kingdom,562
+Disclosure,group,2010,United Kingdom,563
+alt-J,group,2007,United Kingdom,564
+Rudimental,group,2010,United Kingdom,565
+Demi Lovato,artist,1992,United States,566
+Little Mix,group,2011,United Kingdom,567
+Cher Lloyd,artist,1993,United Kingdom,568
+Lorde,artist,1996,New Zealand,569
+Robin Thicke,artist,1977,United States,570
+Imagine Dragons,group,2008,United States,571
+Macklemore & Ryan Lewis,group,2008,United States,572
+Bingo Players,group,2006,Netherlands,573
+Naughty Boy,artist,1985,United Kingdom,574
+Tom Odell,artist,1990,United Kingdom,575
+2 Chainz,artist,1977,United States,576
+Martin Garrix,artist,1996,Netherlands,577
+John Newman,artist,1990,United Kingdom,578
+The Neighbourhood,group,2011,United States,579
+Sebastian Ingrosso,artist,1983,Sweden,580
+Capital Cities,group,2010,United States,581
+Selena Gomez,artist,1992,United States,582
+Klangkarussell,group,2011,Austria,583
+A$AP Rocky,artist,1988,United States,584
+Ylvis,group,2010,Norway,585
+Baauer,artist,1989,United States,586
+AWOLNATION,group,2009,United States,587
+Duke Dumont,artist,1981,United Kingdom,588
+Storm Queen,artist,2009,United Kingdom,589
+Wale,artist,1984,United States,590
+Birdy,artist,1996,United Kingdom,591
+Bastille,group,2010,United Kingdom,592
+Bridgit Mendler,artist,1992,United States,593
+Zedd,artist,1989,Russia,594
+Armin van Buuren,artist,1976,Netherlands,595
+Of Monsters and Men,group,2010,Iceland,596
+J. Cole,artist,1985,United States,597
+Childish Gambino,artist,1983,United States,598
+Passenger,artist,1984,United Kingdom,599
+Ariana Grande,artist,1993,United States,600
+Florida Georgia Line,group,2010,United States,601
+Iggy Azalea,artist,1990,Australia,602
+Sam Smith,artist,1992,United Kingdom,603
+MAGIC!,group,2012,Canada,604
+Sia,artist,1975,Australia,605
+ZHU,artist,1989,United States,606
+Meghan Trainor,artist,1993,United States,607
+Tove Lo,artist,1987,Sweden,608
+Oliver Heldens,artist,1995,Netherlands,609
+DJ Snake,artist,1986,France,610
+Tinashe,artist,1993,United States,611
+Route 94,artist,1986,United Kingdom,612
+O.T. Genasis,artist,1987,United States,613
+Lilly Wood and The Prick,group,2006,France,614
+Bobby Shmurda,artist,1994,United States,615
+Nico & Vinz,group,2010,Norway,616
+Becky G,artist,1997,United States,617
+Sigma,group,2006,United Kingdom,618
+The Chainsmokers,group,2012,United States,619
+Rixton,group,2012,United Kingdom,620
+Klingande,group,2012,France,621
+Mr. Probz,artist,1984,Netherlands,622
+Paloma Faith,artist,1981,United Kingdom,623
+Kiesza,artist,1989,Canada,624
+Kid Ink,artist,1986,United States,625
+Peking Duk,group,2010,Australia,626
+Milky Chance,group,2012,Germany,627
+Ed Sheeran,artist,1991,United Kingdom,628
+Gorgon City,group,2012,United Kingdom,629
+MKTO,group,2012,United States,630
+Charli XCX,artist,1992,United Kingdom,631
+Tiësto,artist,1969,Netherlands,632
+5 Seconds of Summer,group,2011,Australia,633
+G.R.L.,group,2013,United States,634
+Clean Bandit,group,2008,United Kingdom,635
+Alex & Sierra,group,2012,United States,636
+Echosmith,group,2009,United States,637
+Natalie La Rose,artist,1988,Netherlands,638
+Vance Joy,artist,1987,Australia,639
+Ella Henderson,artist,1996,United Kingdom,640
+Sheppard,group,2009,Australia,641
+Nick Jonas,artist,1992,United States,642
+Major Lazer,group,2009,United States,643
+The Weeknd,artist,1990,Canada,644
+Deorro,artist,1991,United States,645
+Rae Sremmurd,group,2008,United States,646
+Robin Schulz,artist,1987,Germany,647
+Philip George,artist,1993,United Kingdom,648
+Rob $tone,artist,1995,United States,649
+Lost Frequencies,artist,1993,Belgium,650
+Twenty One Pilots,group,2009,United States,651
+Fifth Harmony,group,2012,United States,652
+KALEO,group,2012,Iceland,653
+Martin Solveig,artist,1976,France,654
+Felix Jaehn,artist,1994,Germany,655
+Galantis,group,2012,Sweden,656
+Zara Larsson,artist,1997,Sweden,657
+Travis Scott,artist,1991,United States,658
+Years & Years,group,2010,United Kingdom,659
+Lemaitre,group,2010,Norway,660
+Pia Mia,artist,1996,United States,661
+Silentó,artist,1998,United States,662
+The Strumbellas,group,2008,Canada,663
+Fetty Wap,artist,1991,United States,664
+SAYGRACE,artist,1999,Australia,665
+X Ambassadors,group,2009,United States,666
+R. City,group,2003,United States,667
+Kygo,artist,1991,Norway,668
+Tame Impala,group,2007,Australia,669
+Hozier,artist,1990,Ireland,670
+Alessia Cara,artist,1996,Canada,671
+Meek Mill,artist,1987,United States,672
+Big Sean,artist,1988,United States,673
+Petit Biscuit,artist,1999,France,674
+Shawn Mendes,artist,1998,Canada,675
+Jack Ü,group,2013,United States,676
+Bryson Tiller,artist,1993,United States,677
+Rich Homie Quan,artist,1989,United States,678
+Joel Adams,artist,1996,Australia,679
+Jonas Blue,artist,1989,United Kingdom,680
+BØRNS,artist,1992,United States,681
+Sigala,artist,1992,United Kingdom,682
+Nicky Jam,artist,1981,United States,683
+Desiigner,artist,1997,United States,684
+Burak Yeter,artist,1982,Turkey,685
+WILLOW,artist,2000,United States,686
+G-Eazy,artist,1989,United States,687
+Astrid S,artist,1996,Norway,688
+Future,artist,1983,United States,689
+Alok,artist,1991,Brazil,690
+Jon Bellion,artist,1990,United States,691
+Cheat Codes,group,2014,United States,692
+Dua Lipa,artist,1995,United Kingdom,693
+Alan Walker,artist,1997,Norway,694
+Kevin Gates,artist,1986,United States,695
+Marshmello,artist,1992,United States,696
+Fitz and The Tantrums,group,2008,United States,697
+Anne-Marie,artist,1991,United Kingdom,698
+Charlie Puth,artist,1991,United States,699
+AlunaGeorge,artist,2012,United Kingdom,700
+MNEK,artist,1994,United Kingdom,701
+Mike Perry,artist,1993,Sweden,702
+Tory Lanez,artist,1992,Canada,703
+Kungs,artist,1996,France,704
+DNCE,artist,2015,United States,705
+99 Souls,artist,2015,United Kingdom,706
+Illy,artist,1986,Australia,707
+Kiiara,artist,1995,United States,708
+ZAYN,artist,1993,United Kingdom,709
+Steve Aoki,artist,1977,United States,710
+Flume,artist,1991,Australia,711
+PARTYNEXTDOOR,artist,1993,Canada,712
+Garrett Nash,artist,1993,United States,713
+Hilltop Hoods,artist,1994,Australia,714
+Daya,artist,1998,United States,715
+Kent Jones,artist,1993,United States,716
+MØ,artist,1988,Denmark,717
+The Lumineers,artist,2005,United States,718
+Luis Fonsi,artist,1978,Puerto Rico,719
+Camila Cabello,artist,1997,Cuba,720
+Billie Eilish,artist,2001,United States,721
+Lil Peep,artist,1996,United States,722
+A$AP Ferg,artist,1988,United States,723
+French Montana,artist,1984,Morocco,724
+21 Savage,artist,1992,United Kingdom,725
+Axwell /\\ Ingrosso,artist,2014,Sweden,726
+J Balvin,artist,1985,Colombia,727
+Jax Jones,artist,1987,United Kingdom,728
+Ayo & Teo,artist,2017,United States,729
+Lil Uzi Vert,artist,1995,United States,730
+Playboi Carti,artist,1996,United States,731
+Chord Overstreet,artist,1989,United States,732
+Natti Natasha,artist,1986,Dominican Republic,733
+Big Shaq,artist,2017,United Kingdom,734
+Rag'n'Bone Man,artist,1985,United Kingdom,735
+blackbear,artist,1990,United States,736
+Lil Pump,artist,2000,United States,737
+Kodak Black,artist,1997,United States,738
+A Boogie Wit da Hoodie,artist,1995,United States,739
+XXXTENTACION,artist,1998,United States,740
+Migos,artist,2008,United States,741
+Yo Gotti,artist,1981,United States,742
+Martin Jensen,artist,1991,Denmark,743
+The Vamps,artist,2012,United Kingdom,744
+Cardi B,artist,1992,United States,745
+Post Malone,artist,1995,United States,746
+Zay Hilfigerrr,artist,2001,United States,747
+Maggie Lindemann,artist,1998,United States,748
+Macklemore,artist,1983,United States,749
+Hayden James,artist,1988,Australia,750
+Liam Payne,artist,1993,United Kingdom,751
+Starley,artist,1987,Australia,752
+AJR,artist,2005,United States,753
+CNCO,artist,2015,Puerto Rico,754
+Offset,artist,1991,United States,755
+Dynoro,artist,2000,Lithuania,756
+Juice WRLD,artist,1998,United States,757
+Sheck Wes,artist,1998,United States,758
+6ix9ine,artist,1996,United States,759
+Nio Garcia,artist,1990,Puerto Rico,760
+Machine Gun Kelly,artist,1990,United States,761
+Jay Rock,artist,1985,United States,762
+Rich The Kid,artist,1992,United States,763
+Logic,artist,1990,United States,764
+EO,artist,1999,United States,765
+Dennis Lloyd,artist,1993,Israel,766
+girl in red,artist,1999,Norway,767
+Tom Walker,artist,1991,United Kingdom,768
+Sofía Reyes,artist,1995,Mexico,769
+Loud Luxury,artist,2012,Canada,770
+NF,artist,1991,United States,771
+Maluma,artist,1994,Colombia,772
+Lil Baby,artist,1994,United States,773
+Ozuna,artist,1992,Puerto Rico,774
+BlocBoy JB,artist,1996,United States,775
+Dean Lewis,artist,1987,Australia,776
+YG,artist,1990,United States,777
+B Young,artist,1998,United Kingdom,778
+Reik,artist,2003,Mexico,779
+benny blanco,artist,1988,United States,780
+MK,artist,1983,United Kingdom,781
+Banx & Ranx,artist,2015,Canada,782
+Ella Mai,artist,1994,United Kingdom,783
+FINNEAS,artist,1997,United States,784
+Hugh Jackman,artist,1968,Australia,785
+Halsey,artist,1994,United States,786
+M.O,artist,2012,United Kingdom,787
+Cashmere Cat,artist,1987,Norway,788
+Bazzi,artist,1997,United States,789
+Lil Dicky,artist,1988,United States,790
+Lauv,artist,1994,United States,791
+Khalid,artist,1998,United States,792
+Lil Nas X,artist,1999,United States,793
+Gesaffelstein,artist,1987,France,794
+Regard,artist,1993,Kosovo,795
+Lewis Capaldi,artist,1996,United Kingdom,796
+Mustard,artist,1992,United States,797
+NLE Choppa,artist,2002,United States,798
+Alec Benjamin,artist,1994,United States,799
+BLACKPINK,artist,2016,South Korea,800
+MEDUZA,artist,2015,Italy,801
+Mabel,artist,1996,United Kingdom,802
+Saweetie,artist,1993,United States,803
+Lil Tecca,artist,2002,United States,804
+Russ Millions,artist,1996,United Kingdom,805
+Doja Cat,artist,1995,United States,806
+iann dior,artist,1999,United States,807
+Paulo Londra,artist,1998,Argentina,808
+Bad Bunny,artist,1994,Puerto Rico,809
+Polo G,artist,1999,United States,810
+Young Thug,artist,1991,United States,811
+Anuel AA,artist,1992,Puerto Rico,812
+Flipp Dinero,artist,1995,United States,813
+Dave,artist,1998,United Kingdom,814
+Ava Max,artist,1994,United States,815
+Young T & Bugsey,artist,2010,United Kingdom,816
+Stormzy,artist,1993,United Kingdom,817
+Tones And I,artist,2000,Australia,818
+Pedro Capó,artist,1980,Puerto Rico,819
+Lunay,artist,2000,Puerto Rico,820
+Blueface,artist,1997,United States,821
+DaBaby,artist,1991,United States,822
+AJ Tracey,artist,1994,United Kingdom,823
+BTS,artist,2013,South Korea,824
+"Tyler, The Creator",artist,1991,United States,825
+Ashley O,artist,2018,United States,826
+Dominic Fike,artist,1999,United States,827
+Megan Thee Stallion,artist,1995,United States,828
+Sam Feldt,artist,1993,Netherlands,829
+Kehlani,artist,1995,United States,830
+Sech,artist,1993,Panama,831
+NSG,artist,2013,United Kingdom,832
+Normani,artist,1996,United States,833
+Joel Corry,artist,1989,United Kingdom,834
+Blanco Brown,artist,1990,United States,835
